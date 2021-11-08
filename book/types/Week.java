@@ -1,4 +1,4 @@
-package com.java.november;
+package com.java.november.book.types;
 
 public enum Week {
 

@@ -1,4 +1,4 @@
-package com.java.november;
+package com.java.november.book;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
@@ -19,7 +19,7 @@ public class practice18 {
 //		EX3();
 //		EX4();
 //		EX5();
-		EX6();
+//		EX6();
 
 
 	}
@@ -142,5 +142,6 @@ public class practice18 {
 		fos.close();
 		
 	}
+
 
 }

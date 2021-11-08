@@ -1,8 +1,10 @@
-package com.java.november;
+package com.java.november.book;
 
 import java.util.Calendar;
 
-public class practice01 {
+import com.java.november.book.types.Week;
+
+public class practice05 {
 	public static void main(String[] args) {
 		
 //		Ex1();
