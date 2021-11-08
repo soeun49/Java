@@ -27,6 +27,7 @@ public class Array {
 		}
 		System.out.println("Á¡¼ö ÃÑÇÕ:"+sum);
 		
+		
 		double avg= (double)sum/scores.length;
 		System.out.println("Á¡¼ö Æò±Õ=" + avg);
 	

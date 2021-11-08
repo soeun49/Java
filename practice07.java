@@ -21,7 +21,7 @@ public class practice07 {
 	private static void Ex2() {
 		//숫자의 합
 		
-		
+	
 
 	}
 
