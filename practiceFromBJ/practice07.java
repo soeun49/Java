@@ -1,4 +1,4 @@
-package com.java.november;
+package com.java.november.practiceFromBJ;
 //백준 문자열 
 import java.util.Scanner;
 
