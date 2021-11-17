@@ -1,6 +1,6 @@
 package com.java.november.API;
 
-// °´Ã¼ ºñ±³ Objects.compare, Comparator
+// °´Ã¼ ºñ±³ÇÏ±â:  Objects.compare, Comparator
 
 import java.util.Objects;
 import java.util.Comparator;
